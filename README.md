@@ -11,9 +11,8 @@ It demonstrates how variable voltage and frequency output can be used to regulat
 The project helps in understanding the fundamental working of inverters, SPWM generation, and motor speed control.
 
 **⚙️ Tools & SoftwareMATLAB Simulink**
-
-Simscape Electrical
-Sampling Time: 1e-6 s
+SPS lib
+Sampling Time: 5e-5 s
 
 Universal Bridge used for inverter modeling
 
@@ -25,8 +24,7 @@ Voltage and frequency control of the inverter
 
 Open-loop speed control of the motor
 
-
-Simscape-based modeling (no SPS blocks used)
+SPS based modelling
 
 Scope and Display outputs for voltage, current, and speed monitoring
 
